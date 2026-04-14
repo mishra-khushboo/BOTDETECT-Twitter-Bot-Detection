@@ -156,9 +156,8 @@ Explanations were generated for multiple test instances and saved as interactive
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/twitter-bot-detection.git
-cd twitter-bot-detection
-
+git clone https://github.com/mishra-khushboo/BOTDETECT-Twitter-Bot-Detection.git
+cd BOTDETECT-Twitter-Bot-Detection
 # Install dependencies
 pip install -r requirements.txt
 
